@@ -1,4 +1,4 @@
-# 📚 Library Management System – "biblioteka_gimnazija"
+# 📚 Library Management System
 
 A complete web application built for managing a high school library.  
 The system allows managing books, students, employees, and book rentals/returns.  
@@ -68,6 +68,7 @@ Run using XAMPP (Place the project inside the htdocs folder)
 Open in browser "http://localhost/biblioteka_gimnazija"
 
 All copyrights reserved ZahidK.
+
 
 
 
