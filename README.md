@@ -34,25 +34,25 @@ Login system for different roles
 ## Application Preview
 
 ### Use Case Diagram  
-![UseCaseDiagram](images/dijagram%20koristenja.PNG)
+![UseCaseDiagram](images/dijagram%20koristenja.jpg)
 
 ### Homepage Preview  
-![Homepage](images/izgled%20pocetne%20stranice.PNG)
+![Homepage](images/izgled%20pocetne%20stranice.jpg)
 
 ### Books Display & Search  
-![Books](images/prikaz%20i%20pretraga%20knjiga.PNG)
+![Books](images/prikaz%20i%20pretraga%20knjiga.jpg)
 
 ### Add New Book  
 ![AddBook](images/dodavanja%20knjiga.PNG)
 
 ### Employees 
-![Employees](images/zaposlenici.PNG)
+![Employees](images/zaposlenici.jpg)
 
 ### Renting and Returning Books  
-![RentandReturn](images/iznajmnjivanje%20i%20vracanje%20knjiga.PNG)
+![RentandReturn](images/iznajmnjivanje%20i%20vracanje%20knjiga.jpg)
 
 ### Login
-![Login](images/prijava%20u%20aplikaciju.PNG)
+![Login](images/prijava%20u%20aplikaciju.jpg)
 
 
 ---
@@ -69,6 +69,7 @@ Run using XAMPP (Place the project inside the htdocs folder)
 Open in browser "http://localhost/biblioteka_gimnazija"
 
 All copyrights reserved ZahidK.
+
 
 
 
