@@ -43,7 +43,7 @@ Login system for different roles
 ![Books](images/prikaz%20i%20pretraga%20knjiga.jpg)
 
 ### Add New Book  
-![AddBook](images/dodavanja%20knjiga.PNG)
+![AddBook](images/dodavanja%20knjiga.jpg)
 
 ### Employees 
 ![Employees](images/zaposlenici.jpg)
@@ -69,6 +69,7 @@ Run using XAMPP (Place the project inside the htdocs folder)
 Open in browser "http://localhost/biblioteka_gimnazija"
 
 All copyrights reserved ZahidK.
+
 
 
 
