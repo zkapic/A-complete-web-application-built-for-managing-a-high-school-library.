@@ -33,9 +33,6 @@ Login system for different roles
 
 ## Application Preview
 
-### Use Case Diagram  
-![UseCaseDiagram](images/dijagram%20koristenja.jpg)
-
 ### Homepage Preview  
 ![Homepage](images/izgled%20pocetne%20stranice.jpg)
 
@@ -58,17 +55,20 @@ Login system for different roles
 ---
 
 ## ⚙️ Installation & Setup
+Clone the project:
 
-1. Clone the project:
-   ```bash
-   git clone https://github.com/USERNAME/biblioteka_gimnazija.git
+git clone https://github.com/USERNAME/biblioteka_gimnazija.git
 
 Import SQL database 
+
 Configure DB connection
+
 Run using XAMPP (Place the project inside the htdocs folder)
+
 Open in browser "http://localhost/biblioteka_gimnazija"
 
 All copyrights reserved ZahidK.
+
 
 
 
