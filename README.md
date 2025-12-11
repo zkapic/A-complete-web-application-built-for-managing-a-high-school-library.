@@ -49,7 +49,7 @@ Login system for different roles
 ![Employees](images/zaposlenici.jpg)
 
 ### Renting and Returning Books  
-![RentandReturn](images/iznajmnjivanje%20i%20vracanje%20knjiga.PNG)
+![RentandReturn](images/iznajmnjivanje%20i%20vracanje%20kknijiga.PNG)
 
 ### Login
 ![Login](images/prijava%20u%20aplikaciju.jpg)
@@ -69,6 +69,7 @@ Run using XAMPP (Place the project inside the htdocs folder)
 Open in browser "http://localhost/biblioteka_gimnazija"
 
 All copyrights reserved ZahidK.
+
 
 
 
